@@ -7,7 +7,8 @@ after updating to a new PHP version. It usually looks like this.
 
 
 ```
-Fatal error: Uncaught Error: [] operator not supported for strings in <publicDirectory>/<siteFolder>/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71 Stack trace: #0 <publicDirectory>/<siteFolder>/wp-content/plugins/revslider/admin/revslider-admin.class.php(572):
+Fatal error: Uncaught Error: [] operator not supported for strings in <publicDirectory>/<siteFolder>/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace: #0 <publicDirectory>/<siteFolder>/wp-content/plugins/revslider/admin/revslider-admin.class.php(572):
 ```
 
 
